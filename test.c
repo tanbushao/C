@@ -9,5 +9,6 @@ int main()
     printf("加油，只要自己想去处理问题，问题都会解决的！");
     printf("不哟放弃，就会成功！");
     printf("真的是这样哎");
+    printf("这个问题终于解决了");
     return 0;
 }
